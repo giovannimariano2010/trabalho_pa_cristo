@@ -26,7 +26,7 @@ font-family: Arial, Helvetica, sans-serif;
 color: #ffffff; 
 display: flex;
 flex-direction: column;
-background-image: url("/imagens/fundoanonimo.webp");
+background-image: url("imagens/fundoanonimo.webp");
 background-repeat: no-repeat;
 background-size:cover;
 
@@ -36,7 +36,7 @@ background-attachment: fixed;
 font-family: Arial, Helvetica, sans-serif; 
 color: #fffdfd; 
 display: block;
-background-image: url("/imagens/cruz-dia.jpg");
+background-image: url("imagens/cruz-dia.jpg");
 background-repeat: repeat;
 background-size:100%;
 } 
